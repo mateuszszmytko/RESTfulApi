@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raa.RESTfulApi", "Raa.RESTfulApi\Raa.RESTfulApi.csproj", "{B822D10A-88C9-4216-A052-88F666D81887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B822D10A-88C9-4216-A052-88F666D81887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B822D10A-88C9-4216-A052-88F666D81887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B822D10A-88C9-4216-A052-88F666D81887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B822D10A-88C9-4216-A052-88F666D81887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60EF5962-9377-44B3-8D11-EE307263D4B0}
+	EndGlobalSection
+EndGlobal
